@@ -3,7 +3,7 @@
 **NAME** : **SAKET KUMAR**
 
 
-**COMPANY** : **Promotency**
+**COMPANY** : **PROMOTENCY**
 
 **DOMAIN** : **FRONTEND DEVELOPMENT**
 
